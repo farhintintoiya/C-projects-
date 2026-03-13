@@ -34,49 +34,6 @@ This project demonstrates the following **C programming concepts**:
 
 ---
 
-## 📂 Project Structure
-
-```
-simple-calculator-c/
-│
-├── calculator.c
-└── README.md
-```
-
----
-
-## ⚙ How to Run the Program
-
-### 1️⃣ Compile the program
-
-```bash
-gcc calculator.c -o calculator
-```
-
-### 2️⃣ Run the program
-
-```bash
-./calculator
-```
-
----
-
-## 🖥 Example Output
-
-```
-Enter operator (+, -, *, /) or q to quit: +
-Enter two numbers: 5 3
-Result = 8.00
-
-Enter operator (+, -, *, /) or q to quit: /
-Enter two numbers: 10 0
-Error: Division by zero not allowed
-
-Enter operator (+, -, *, /) or q to quit: q
-Calculator Closed.
-```
-
----
 
 ## 🎯 Learning Purpose
 
